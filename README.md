@@ -1,4 +1,5 @@
-https://github.com/Ma4rcoss/CalculatorHtml/blob/main/Captura%20de%20tela%202021-12-01%20231244.jpg
+<img src="https://github.com/Ma4rcoss/CalculatorHtml/blob/main/Captura%20de%20tela%202021-12-01%20231244.jpg"> 
+
 ### For code reviewers
 Calculadora simples feita em Html, Css e Javascript
 
